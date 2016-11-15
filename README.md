@@ -1,2 +1,4 @@
-# knowledge-sequencer
-A platform for learning and teaching sequential knowldge
+# Knowledge Sequencer
+A platform for learning and teaching sequential Knowledge
+
+[Design Documentation](https://docs.google.com/document/d/1G3Kvdsvfru0VvnSkVA907fSyGYwfvf0IozgQQ3OG51Y/edit?usp=sharing)
