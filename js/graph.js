@@ -44,7 +44,7 @@ function test(test_id, function_output, expected_output){
 }
 
 // Test cases (To be run within this file only)
-test(0,Node("a","a").title,"a");
-test(1,Node("a","b").content,"b");
-test(2,Node("a","c").id,2);
-test(3,Node("a","d",[1]).prerequisites[0],1);
+// test(0,Node("a","a").title,"a");
+// test(1,Node("a","b").content,"b");
+// test(2,Node("a","c").id,2);
+// test(3,Node("a","d",[1]).prerequisites[0],1);
