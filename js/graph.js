@@ -1,4 +1,3 @@
-var node_ids = -1;
 class KnowledgeNode {
     constructor(title, content = "", prerequisites = []) {
         this.title = title;
